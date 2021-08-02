@@ -1,6 +1,6 @@
 ### Fala, pessoal! 👋
 
-Sou Desenvolvedor Full Stack com ênfase e experiência no Desenvolvimento Web. Programando desde os 16 anos, já desenvolvi sistemas para lojas virtuais e sites institucionais para vendas de cursos online. Durante a faculdade venho pesquisando na área de Machine Learning, com ênfase em Deep Learning e Neural Networks.
+Sou desenvolvedor web e mobile. Programando desde os 16 anos, já desenvolvi sistemas para lojas virtuaissites institucionais para vendas de cursos online e tenho experiência em desenvolvimento de aplicativos. Durante a faculdade venho pesquisando na área de Machine Learning, com ênfase em Deep Learning e Neural Networks.
 
 - 🖥️ Machine Learning ...
 - 📱 Flutter, React Native e Ionic para desenvovimento mobile ...
