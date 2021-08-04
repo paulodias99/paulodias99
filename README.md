@@ -9,7 +9,7 @@ Sou desenvolvedor web e mobile. Programando desde os 16 anos, já desenvolvi sis
 
 <hr>
 
-<img height=170 src="https://github-readme-stats.vercel.app/api?username=paulodias99&show_icons=true$layout=compact&theme=dark"/> <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodias99&layout=compact&theme=dark"/>
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=paulodias99&show_icons=true$layout=compact&theme=dark"/> <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodias99&layout=compact&theme=dark"/>
 
 <div>
   
