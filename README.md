@@ -10,8 +10,8 @@ Sou desenvolvedor web e mobile. Programando desde os 16 anos, já desenvolvi sis
 <hr>
 <div>
   
-   <img height=195 width=500 src="https://github-readme-stats.vercel.app/api?username=paulodias99&show_icons=true$layout=compact&theme=dark"/>
-   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodias99&layout=compact&theme=dark"/>
+   <img height=180em width=500 src="https://github-readme-stats.vercel.app/api?username=paulodias99&show_icons=true$layout=compact&theme=dark"/>
+   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodias99&layout=compact&theme=dark"/>
   
   <div style="display: inline_block" align="center">
     <img align="center" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
