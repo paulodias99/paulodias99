@@ -31,7 +31,7 @@ Sou desenvolvedor web e mobile. Programando desde os 16 anos, já desenvolvi sis
 <div>
 Graduando em Ciência da Computação pela Universidade Estadual do Ceará. Em 2018 me formei como Técnico Integrado em Informática pelo Instituto Federal de Ciências e Tecnologia do Ceará. Em 2019, quando bolsista do Programa de Educação Tutorial, realizei projetos de pesquisa na área de Redes Neurais Artificiais. Atualmente sou Pesquisador do Laboratório de Processamento de Imagens, Sinais e Computação Aplicada - LAPISCO.
   <div align="center"><br />
-    <a href="https://www.linkedin.com/in/paulodias99/" src=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
+    <a href="https://www.linkedin.com/in/paulodias99/" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   </div>
 </div>
 
